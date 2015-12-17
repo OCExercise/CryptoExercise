@@ -1,6 +1,10 @@
 # CryptoExercise
 
-## Descriptoin:
+## NOTE:
+
+Originally sourced from [Apple](http://www.apple.com)'s [CryptoExercise](https://developer.apple.com/library/ios/samplecode/CryptoExercise/Introduction/Intro.html).
+
+## Description:
 
 This sample demonstrates the use of the two main Cryptographic API sets on the iPhone OS SDK. Asymmetric Key Encryption and random nonce generation is handled through the Security framework API set, whereas, Symmetric Key Encryption is handled by the CommonCrypto API set. The CryptoExercise sample brings both of these APIs together through a network service, discoverable via Bonjour, that performs a "dummy" cryptographic protocol between devices found on the same subnet.
 
